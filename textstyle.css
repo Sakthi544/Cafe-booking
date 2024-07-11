@@ -1,0 +1,9 @@
+:root{ 
+    --color-primary:#bdc3c7;
+	--color-secondary:#2c3e50;
+}
+.theme-gradient{
+    background:-webkit-linear-gradient(#bdc3c7,#2c3e50);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color:rgba(255,255,255,0.001);
+}
